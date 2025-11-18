@@ -67,7 +67,7 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-![Snake Grid](https://github.com/sohebakhter/contribution-snake/blob/output/grid.svg)
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohebakhter&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
 ### GitHub Statistics:
