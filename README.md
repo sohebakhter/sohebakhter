@@ -21,7 +21,8 @@
 - 🛠️ I’m currently learning **Next.js and TypeScript**.
 - 💬 Ask me about **Frontend (React, Node, Express, MongoDB)**.
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/soheb-akhter)**
-- 📫 Feel free to reach me out — **[Email](mailto:sohebakhterbadhan@gmail.com)**
+- 📫 Feel free to reach me out —  <a href="mailto:sohebakhterbadhan@gmail.com">Email Me</a>
+
   
 <br/>
 
