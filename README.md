@@ -34,7 +34,7 @@ I enjoy creating **responsive, interactive, and scalable web applications** usin
 <td width="40%" align="center">
 
 <!-- Professional Developer GIF -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Animation" width="300"/>
+<img src="https://i.ibb.co.com/3YMrF8xd/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Developer Animation" width="300"/>
 
 </td>
 </tr>
