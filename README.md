@@ -40,20 +40,9 @@ I enjoy creating **responsive, interactive, and scalable web applications** usin
 </tr>
 </table>
 
----
-<br/>
-
-<!--- socials --->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
-
-<div>
-  <p align="left">
-    <a href="https://linkedin.com/in/soheb-akhter" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="sohebakhter" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/realsohebakhter" target="blank"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="30" width="40" /></a>
-  </p>
-</div>
 
 <br/>
+
 
 <!--- technology --->
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
@@ -121,11 +110,22 @@ I enjoy creating **responsive, interactive, and scalable web applications** usin
 ### Repository Stats & Streak:
 | <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=sohebakhter&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=sohebakhter" /></a> |
 | ------------- | ------------- |
+<!-- Socials -->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b>Let's Connect!</b>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/soheb-akhter/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/realsohebakhter" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
 
 <br/>
 
-
 ---
+
 
 <!--- visit count --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohebakhter&label=Profile%20views&color=0e75b6&style=flat" alt="sohebakhter" /> </p>
