@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./banner/github_banner.png" alt="Hello world">
+<img src="/Banner.png" alt="Soheb Akhter">
 
 <br/>
 
