@@ -14,16 +14,33 @@
 
 <br/>
 
-<!--- about --->
-- 👋 Hi, I’m **[@sohebakhter](https://github.com/sohebakhter)**
-- 🖥️ I’m currently working on **React.js** for frontend development.
-- 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
-- 🛠️ I’m currently learning **Next.js and TypeScript**.
-- 💬 Ask me about **Frontend (React, Node, Express, MongoDB)**.
-- 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/soheb-akhter)**
-- 📫 Feel free to reach me out — **[Email](mailto:sohebakhterbadhan@gmail.com)**
+<!-- ABOUT ME  -->
+## 👨‍💻 About Me
 
-  
+<table>
+<tr>
+<td width="60%">
+
+### Hi, I'm **Soheb Akhter Badhan** 👋  
+A **Frontend Developer** and **MERN Stack Developer**, and a **Lifelong Learner**.  
+I enjoy creating **responsive, interactive, and scalable web applications** using modern technologies.
+
+- 💻 Building projects with **React, Node.js & MongoDB**  
+- 🌱 Currently learning **frontend & backend skills**  
+- 🤝 Open to collaborate on **open-source & MERN projects**  
+- 🎯 Goal: To become a **Full-Stack Developer** with expertise in **MERN & Cloud**
+
+</td>
+<td width="40%" align="center">
+
+<!-- Professional Developer GIF -->
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Animation" width="300"/>
+
+</td>
+</tr>
+</table>
+
+---
 <br/>
 
 <!--- socials --->
