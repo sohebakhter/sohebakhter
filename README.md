@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="/Banner.png" alt="Soheb Akhter">
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/7dcaadd4-7441-4f3d-b158-852adc215600" />
 
 <br/>
 
