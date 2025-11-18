@@ -32,7 +32,7 @@
 <div>
   <p align="left">
     <a href="https://linkedin.com/in/soheb-akhter" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="sohebakhter" height="30" width="40" /></a>
-    <a href="https://discord.gg/soheb-akhter" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="sohebakhter" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/realsohebakhter" target="blank"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="30" width="40" /></a>
   </p>
 </div>
 
