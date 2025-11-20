@@ -21,7 +21,7 @@
 <tr>
 <td width="60%">
 
-### Hi, I'm **[@Soheb Akhte Badhan](https://github.com/sohebakhter)** 👋  
+### Hi, I'm **[@Soheb Akhter Badhan](https://github.com/sohebakhter)** 👋  
 A **Frontend Developer** and **MERN Stack Developer**, and a **Lifelong Learner**.  
 I enjoy creating **responsive, interactive, and scalable web applications** using modern technologies.
 
