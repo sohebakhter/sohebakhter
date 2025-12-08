@@ -64,6 +64,7 @@ I enjoy creating **responsive, interactive, and scalable web applications** usin
       <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" />
       <img src="https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss" />
       <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
+      <img src="https://img.shields.io/badge/-Next-333333?style=flat&logo=next" />
     </td>
   </tr>
   <tr>
