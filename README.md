@@ -25,7 +25,7 @@
 A **Frontend Developer** and **MERN Stack Developer**, and a **Lifelong Learner**.  
 I enjoy creating **responsive, interactive, and scalable web applications** using modern technologies.
 
-- 💻 Building projects with **React,Next.js, Node.js & MongoDB**  
+- 💻 Building projects with **React, Next.js, Node.js & MongoDB**  
 - 🌱 Currently learning **frontend & backend skills**  
 - 🤝 Open to collaborate on **open-source & MERN projects**  
 - 🎯 Goal: To become a **Full-Stack Developer** with expertise in **MERN & Cloud**
@@ -55,6 +55,7 @@ I enjoy creating **responsive, interactive, and scalable web applications** usin
     <td><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
+      <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript" />
     </td>
   </tr>
   <tr>
