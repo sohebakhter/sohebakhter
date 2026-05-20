@@ -87,6 +87,8 @@ I enjoy creating **responsive, interactive, and scalable web applications** usin
   <tr>
     <td><b>Tools & Platforms</b></td>
     <td>
+      <img src="https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma" />
+      <img src="https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize" />
       <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
       <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
       <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
