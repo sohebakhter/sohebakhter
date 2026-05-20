@@ -80,6 +80,7 @@ I enjoy creating **responsive, interactive, and scalable web applications** usin
     <td><b>Database</b></td>
     <td>
       <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" />
+      <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" />
       <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" />
     </td>
   </tr>
