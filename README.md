@@ -82,7 +82,6 @@ I enjoy creating **responsive, interactive, and scalable web applications** usin
       <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" />
       <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" />
       <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" />
-      <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" />
     </td>
   </tr>
   <tr>
@@ -93,6 +92,7 @@ I enjoy creating **responsive, interactive, and scalable web applications** usin
       <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" />
       <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
       <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
+      <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" />
       <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
       <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" />
       <img src="https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens" />
